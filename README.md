@@ -1,6 +1,8 @@
-# GuruShotsGllery
+# GuruShotsGallery
 
-This project was generated with Angular 7.2.2
+This project was generated from scratch with Angular 7.2.2
+
+No 3rd party libraries have been used.
 
 ![alt text](logo.png)
 
