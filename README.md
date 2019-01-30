@@ -1,10 +1,14 @@
 # GuruShotsGallery
 
-This project was generated from scratch with Angular 7.2.2
-
+This project was generated with Angular 7.2.2 from scratch.
 No 3rd party libraries have been used.
 
 ![alt text](logo.png)
+
+## Demo
+[Demo Project](https://eliortabeka.github.io/GuruShotsGallery/)
+Use your Right, Left and Escape keys to navigate in the lightbox-gallery;
+
 
 ## Development server
 
